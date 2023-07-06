@@ -1,0 +1,49 @@
+body{
+    background-color: #dbd9d9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 70px;
+    color: #616164;
+   
+}
+
+h2{
+    background-color: #b3adad;
+    border-bottom: 3px solid #4c4cc7;
+    padding: 7px;
+    color: #3131a5;
+
+}
+
+h1{
+    background-color: #bfbbd4;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.p1{
+    text-align: center;
+    background-color: #b2e6e6;
+     
+
+}
+
+a:hover{
+background-color: #b3adad;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+  padding-left: 0%;
+}
+
+li{
+    list-style-position: inside;
+}
+
+
+
